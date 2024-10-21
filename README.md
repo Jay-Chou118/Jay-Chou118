@@ -16,6 +16,6 @@
 
 ![头像](image/背景.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Jay-Chou118/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Leo.
