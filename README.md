@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,mermaid,sqlite,matlab">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,ts,md,latex,mermaid,sqlite,matlab">
 </p>
 
 <!-- https://github.com/badges/shields -->
@@ -31,7 +31,7 @@
 <a href="https://github.com/Jay-Chou118"><img src="https://img.shields.io/badge/GitHub-Leo-blue?logo=github" /></a>
 <!-- <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" /></a> -->
 <a href="https://space.bilibili.com/486610034"><img src="https://img.shields.io/badge/哔哩哔哩-软饭硬吃之王-pink?logo=bilibili" /></a>
-<!-- <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" /></a> -->
+<a href="https://blog.csdn.net/STM_white"><img src="https://img.shields.io/badge/CSDN-STM_white-red?logo=csdn" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Jay-Chou118" />
 </p>
