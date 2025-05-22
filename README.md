@@ -23,7 +23,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
-<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,ts,md,latex,mermaid,sqlite,matlab">
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,md,latex,mermaid,sqlite,matlab">
 </p>
 
 <!-- https://github.com/badges/shields -->
