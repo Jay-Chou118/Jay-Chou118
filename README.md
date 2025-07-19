@@ -20,7 +20,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jay-Chou118&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=transparent&hide_border=true&layout=piel&langs_count=8" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,go,md,latex,mermaid,sqlite,matlab">
