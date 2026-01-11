@@ -1,27 +1,23 @@
 <div align="center">
 
-  <h3>🔭 Currently Focusing on</h3>
-  <img src="https://skillicons.dev/icons?i=c,py,matlab&theme=dark" />
-  
-  <br/>
-
-  <h3>🛠️ Languages & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=cpp,go,sqlite,md,git,linux,vscode&theme=dark" />
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,go,matlab,latex,md&theme=dark" />
   
   <br/><br/>
 
+  <h3>🎯 Current Focus</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide_title=true&bg_color=00000000" />
+
+  <br/><br/>
+
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jay-Chou118&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="stats graph" />
-    <img src="https://streak-stats.demolab.com?user=Jay-Chou118&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Jay-Chou118&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" height="165" />
+    <img src="https://streak-stats.demolab.com?user=Jay-Chou118&theme=tokyonight&hide_border=true&background=00000000&hide_title=true" height="165" />
   </div>
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Chou118&theme=tokyonight&hide_border=true&area=true&bg_color=00000000&custom_title=Contribution%20History" width="840" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Chou118&theme=tokyonight&hide_border=true&area=true&bg_color=00000000&hide_title=true" width="840" />
 
   <br/><br/>
 
@@ -36,8 +32,5 @@
       <img src="https://img.shields.io/badge/CSDN-STM__white-red?style=for-the-badge&logo=csdn&logoColor=white" />
     </a>
   </div>
-
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Jay-Chou118&style=flat-square&color=blue&label=PROFILE+VIEWS" />
 
 </div>
