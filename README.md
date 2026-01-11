@@ -1,7 +1,13 @@
 <div align="center">
 
-  <h3>🛠️ Tech Stack</h3>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,go,matlab,md,latex,mermaid,sqlite&theme=dark" />
+  <h3>🔭 Currently Focusing on</h3>
+  <img src="https://skillicons.dev/icons?i=c,py,matlab&theme=dark" />
+  
+  <br/>
+
+  <h3>🛠️ Languages & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,go,sqlite,md,git,linux,vscode&theme=dark" />
+  
   <br/><br/>
 
   <div style="display: flex; justify-content: center; gap: 10px;">
