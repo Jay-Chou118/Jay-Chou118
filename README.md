@@ -20,38 +20,46 @@
 
 ### 👨‍💻 关于我 / About Me
 
-我是一名**电子信息**专业的学生，热衷于构建连接硬件与云端的完整生态。我的技术探索涵盖了从底层的嵌入式开发到上层的后端及移动端应用。
-
-* **🔭 专注领域**：嵌入式系统开发、后端架构、移动端跨平台应用。
-* **🌱 学习进阶**：不断探索高效的通信协议与高性能系统设计。
-* **💬 交流合作**：欢迎通过邮件或社交平台与我探讨技术细节。
+- 🎓 **Education**: Majoring in **Electronic Information**. Passionate about bridge the gap between hardware and software.
+  - **教育背景**：**电子信息**专业在读，热衷于构建连接硬件与软件的桥梁。
+- 🎯 **Interests**: Deeply interested in **Embedded Systems**, **Backend Development**, and **Mobile App Design**.
+  - **核心兴趣**：深耕**嵌入式系统**、**后端开发**以及**移动端应用**设计。
+- 🔭 **Current Focus**: Developing robust communication protocols and high-performance applications.
+  - **当前关注**：高性能通信协议开发及系统级应用优化。
 
 ---
 
 ### 🛠️ 技术栈 / Tech Stack
 
-| 维度 | 技术/语言 |
+| Category / 类别 | Tech & Languages / 技术与语言 |
 | :--- | :--- |
-| **嵌入式** | C, C++, STM32, RTOS |
-| **后端开发** | Go, Python, API Design |
-| **移动端/脚本** | Java, MATLAB |
-| **工具/文档** | Git, LaTeX, Markdown, Docker |
+| **Embedded / 嵌入式** | C, C++, STM32, RTOS |
+| **Backend / 后端** | Go, Python  |
+| **Mobile / 移动端** | Multi-platform Development |
+| **Tools / 工具** | Git, LaTeX, Markdown, Docker |
 
 <br/>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,go,matlab,latex,md,git,docker&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,go,matlab,latex,md,git,docker,flutter,dart&theme=dark" />
 
 ---
 
-### 📊 GitHub 统计 / Stats
+### 📊 统计数据 / Stats
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Chou118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Chou118&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Chou118&theme=tokyonight&hide_border=true&layout=compact&bg_color=00000000" height="155" />
 </div>
 
 <br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jay-Chou118&theme=tokyonight&hide_border=true&area=true&bg_color=00000000)
+
+---
+
+<p align="center">
+  <i>"Code is where art meets logic."</i><br/>
+  <b>欢迎通过邮件或社交平台与我交流分享技术！</b>
+</p>
 
 </div>
